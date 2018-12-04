@@ -1,0 +1,10 @@
+c:\users\mtgro\documents\visual studio 2015\Projects\Students\Students\bin\Debug\Students.exe.config
+c:\users\mtgro\documents\visual studio 2015\Projects\Students\Students\bin\Debug\Students.exe
+c:\users\mtgro\documents\visual studio 2015\Projects\Students\Students\bin\Debug\Students.pdb
+c:\users\mtgro\documents\visual studio 2015\Projects\Students\Students\bin\Debug\EntityFramework.dll
+c:\users\mtgro\documents\visual studio 2015\Projects\Students\Students\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\mtgro\documents\visual studio 2015\Projects\Students\Students\bin\Debug\EntityFramework.xml
+c:\users\mtgro\documents\visual studio 2015\Projects\Students\Students\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\mtgro\documents\visual studio 2015\Projects\Students\Students\obj\Debug\Students.csprojResolveAssemblyReference.cache
+c:\users\mtgro\documents\visual studio 2015\Projects\Students\Students\obj\Debug\Students.exe
+c:\users\mtgro\documents\visual studio 2015\Projects\Students\Students\obj\Debug\Students.pdb
